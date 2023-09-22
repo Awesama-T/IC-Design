@@ -1,2 +1,2 @@
 # IC-Design
-The maximum that I ever did with Cadence tools.
+The maximum that I ever did with Cadence design tools.
