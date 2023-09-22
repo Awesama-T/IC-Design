@@ -1,5 +1,5 @@
 # IC-Design
-A quick look at what I did with Cadence design tools.
+A quick look at what I've practiced with Cadence design tools.
 
 ## Analog Flow:
 Apart from spice simulation and characterization of CMOS circuits, I also designed the schematic and layout of a D-type flip flop using Cadence Virtuoso as shown below.
