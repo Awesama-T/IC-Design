@@ -52,5 +52,4 @@ Physical layout of a 16*1 mux using the netlist synthesized from the Verilog cod
 
   ![image](https://github.com/Awesama-T/IC-Design/assets/121259619/2e9fd019-f2cc-44f5-b8d9-034d07b3db00)
 
-Apart from what is shown here
 
