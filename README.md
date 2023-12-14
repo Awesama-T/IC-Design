@@ -1,8 +1,8 @@
 # IC-Design
-A quick look at what I've practiced with Cadence design tools.
+A look at what I've made with Cadence design tools on the TSMC 65nm PDK.
 
 ## Analog Flow:
-Apart from spice simulation and characterization of CMOS circuits, I also designed the schematic and layout of a D-type flip flop using Cadence Virtuoso as shown below.
+Shown below is the schematic & layout of a D-type flip flop made using Cadence Virtuoso.
 
 •	Internals of the symbol: 
 
@@ -39,6 +39,10 @@ Apart from spice simulation and characterization of CMOS circuits, I also design
 ## Digital Flow: 
 Physical layout of a 16*1 mux using the netlist synthesized from the Verilog code. 
 
+•	Verilog Code
+
+![image](https://github.com/Awesama-T/IC-Design/assets/121259619/073cd874-2a53-43e0-8d40-8c1fae7e64ad)
+
 •	Netlist 
 
  ![image](https://github.com/Awesama-T/IC-Design/assets/121259619/8683e4c4-1e9a-4896-af69-93c9492d9796)
@@ -47,4 +51,6 @@ Physical layout of a 16*1 mux using the netlist synthesized from the Verilog cod
 •	Layout
 
   ![image](https://github.com/Awesama-T/IC-Design/assets/121259619/2e9fd019-f2cc-44f5-b8d9-034d07b3db00)
+
+Apart from what is shown here
 
